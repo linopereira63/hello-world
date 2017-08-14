@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+Learning GitHub and learning Go for the ultimate cloud programing environment.
+
